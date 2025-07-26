@@ -88,6 +88,24 @@
 
 ---
 
+
+### 🐍 My Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/piyushgaikwad0205/piyushgaikwad0205/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/piyushgaikwad0205/piyushgaikwad0205/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Grid Snake Animation"
+    src="https://raw.githubusercontent.com/piyushgaikwad0205/piyushgaikwad0205/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ### 🔥 GitHub Activity
 
 <p align="center">
